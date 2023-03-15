@@ -5,7 +5,7 @@ alt="License:MIT" />](https://opensource.org/licenses/MIT)
 
 ## Welcome to the world of aviation
 
-You are in the right place if you are a big fan of aviation, or to put it in simple words - a big fan of flying. In this app you will be able to explore the busiest airports in Europe and take a look at how many passengers are flying every month at those airports.
+You are in the right place if you are a big fan of aviation, or to put it in simple words - a big fan of flying. In this app you will be able to explore the busiest airports in Europe and take a look at how many flights are flying in and out of those airports every month.
 
 -   [Motivation](#motivation)
 -   [Explore the app](#explore-the-app)
