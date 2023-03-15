@@ -11,25 +11,25 @@ You are in the right place if you are a big fan of aviation, or to put it in sim
 -   [Installation](#installation)
 -   [Contributing](#contributing)
 
-## Motivation 
+## Motivation {#motivation}
 
 The aviation industry is an important component of modern transportation infrastructure, providing safe and efficient travel across distances. In Europe, the number of flights has been increasing steadily over the past decades, leading to significant challenges in terms of air traffic management and passenger experience. To address these challenges, it is necessary to analyze the available flight data and identify key trends and patterns that can inform more effective policies and strategies.
 
-## Explore the app 
+## Explore the app {#explore-the-app}
 
-You can access the deployed app on
+You can access the deployed app on [https://europeaviation.onrender.com](https://europeaviation.onrender.com/)
 
-## Description 
+## Description {#description}
 
 The interactive dashboard includes three distinct components in the form of dropdown menus, allowing users to select the desired year (ranging from 2016 to 2022), the month of the year (between 1 and 12), and the flight type (departure, arrival, or both). Upon selection, users will be able to view an interactive bar chart displaying the top 10 busiest airports based on their selected flight type. The bar chart includes the name and ICAO code for each airport, and users can easily hover over each bar to examine the number of flights. Additionally, a line chart will be displayed showing three trend lines - the number of flights by departure, the number of flights by arrival, and the total number of flights - for the busiest airport during the selected month. Users can also examine the number of flights for each type on any given day of the selected month by hovering over each point on the line chart.
 
-## About the data 
+## About the data {#about-the-data}
 
 The data was collected from [Eurocontrol](https://ansperformance.eu/data/), including the data of flights information in Europe from January 1st, 2016 to May 5th, 2022. The dataset contains 688099 registers including daily number of departure flights, arrival flights and total number of flights for each airport in Europe.
 
 The data set is public and can be found in [tidytuesday](https://github.com/rfordatascience/tidytuesday/tree/master/data/2022/2022-07-12). Follow this link to access to the source dataset [flights.csv](https://github.com/rfordatascience/tidytuesday/blob/master/data/2022/2022-07-12/flights.csv).
 
-## Installation 
+## Installation {#installation}
 
 To install `EuropeAviation` locally, you can do as follows:
 
@@ -51,7 +51,7 @@ To install `EuropeAviation` locally, you can do as follows:
 
 5.  Copy the address and paste it in your browser to load the dashboard.
 
-## Contributing 
+## Contributing {#contributing}
 
 Interested in contributing? We are glad you are interested, please check out the contributing guidelines. Please note that this project is released with a Code of Conduct. By contributing to this project, you agree to abide by its terms.
 
