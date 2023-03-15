@@ -1,9 +1,3 @@
----
-editor_options: 
-  markdown: 
-    wrap: 72
----
-
 # Contributing
 
 Contributions are welcome, and they are greatly appreciated! Every
