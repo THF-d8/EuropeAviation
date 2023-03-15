@@ -48,7 +48,7 @@ To install `EuropeAviation` locally, you can do as follows:
 
         conda activate euro_avia
 
-4.  In the root of this repository run the following command:
+4.  In the src folder of this repository run the following command:
 
         python app.py
 
