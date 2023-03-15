@@ -11,7 +11,7 @@ You are in the right place if you are a big fan of aviation, or to put it in sim
 -   [Explore the app](#explore-the-app)
 -   [Description](#description)
 -   [About the data](#about-the-data)
--   [Installation](#installation)
+-   [Usage](#usage)
 -   [Contributing](#contributing)
 
 ## Motivation 
@@ -32,7 +32,7 @@ The data was collected from [Eurocontrol](https://ansperformance.eu/data/), incl
 
 The data set is public and can be found in [tidytuesday](https://github.com/rfordatascience/tidytuesday/tree/master/data/2022/2022-07-12). Follow this link to access to the source dataset [flights.csv](https://github.com/rfordatascience/tidytuesday/blob/master/data/2022/2022-07-12/flights.csv).
 
-## Installation 
+## Usage
 
 To install `EuropeAviation` locally, you can do as follows:
 
