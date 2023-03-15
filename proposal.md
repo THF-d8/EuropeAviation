@@ -1,8 +1,3 @@
----
-editor_options: 
-  markdown: 
-    wrap: sentence
----
 
 # EuropeAviation project proposal
 
@@ -75,7 +70,7 @@ Considering our target audience, an example usage of our dashboard can be:
 > Although Bonin flies a lot, he has limited knowledge and does not know how to collect data about the airports.
 > Coincidentally, Bonin found our dashboard where he is able to select the year and month he is interested in, then choose his preferred type of flight (departure or arrival).
 > The dashboard is able to display a bar chart showing the top 10 busiest airports for the selected fight type, and Bonin can hover over each bar to examine the exact number of flights at that corresponding airport.
-> After spending a fair amount of time playing with our dashboard, Bonin's interested in aviation is strengthened and decides to become a pilot at Air France.\
+> After spending a fair amount of time playing with our dashboard, Bonin's interested in aviation is strengthened and decides to become a pilot at Air France.
 
 Another use case scenario can be:
 
