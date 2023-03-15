@@ -12,7 +12,7 @@ df = pd.read_csv("data/preprocessed_data.csv")
 # define app
 app = dash.Dash(__name__, external_stylesheets=[dbc.themes.VAPOR])
 
-app = dash.Dash(__name__, external_stylesheets=[dbc.themes.VAPOR])
+server = app.server
 
 app.layout = dbc.Container([
     html.H1("✈ European Flight Dashboard", style={"color": "slateblue", "font-weight": "bold"}),
@@ -87,3 +87,4 @@ def update_charts(year, month, flight_type):
 # run app
 if __name__ == '__main__':
     app.run_server(debug=True)
+
