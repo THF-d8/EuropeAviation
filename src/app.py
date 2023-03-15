@@ -7,7 +7,7 @@ import dash_bootstrap_components as dbc
 
 
 # Load the data
-df = pd.read_csv("data/preprocessed_data.csv")
+df = pd.read_csv("../data/preprocessed_data.csv")
 
 # define app
 app = dash.Dash(__name__, external_stylesheets=[dbc.themes.VAPOR])
